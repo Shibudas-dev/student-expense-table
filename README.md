@@ -13,8 +13,7 @@ A simple HTML project to track student monthly expenses using a basic table layo
 - CSS (optional)
 
 ## 📷 Preview
-![screenshot](<img width="1917" height="905" alt="image" src="https://github.com/user-attachments/assets/74a44d4b-bda1-4326-96b4-f9b08afd406e" />
-)
+![screenshot](preview.png)
 
 ## 📁 How to Use
 1. Clone the repository
