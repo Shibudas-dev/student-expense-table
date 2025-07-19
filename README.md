@@ -10,7 +10,7 @@ A simple HTML project to track student monthly expenses using a basic table layo
 
 ## 💻 Built With
 - HTML
-- CSS (optional)
+- CSS
 
 ## 📷 Preview
 ![screenshot](preview.png)
